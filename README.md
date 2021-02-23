@@ -1,4 +1,4 @@
-Eorzea font
+Eorzea Dot font
 ====
 
 Eorzea Dot font for FF14.
