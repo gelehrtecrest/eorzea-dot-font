@@ -1,10 +1,7 @@
 {
 .appVersion = "3058";
 .formatVersion = 3;
-DisplayStrings = (
-x
-);
-date = "2021-03-03 07:39:28 +0000";
+date = "2021-03-26 14:49:38 +0000";
 familyName = EorzeaDot;
 featurePrefixes = (
 {
@@ -14686,6 +14683,56 @@ width = 200;
 unicode = 32;
 },
 {
+glyphname = period;
+lastChange = "2021-03-26 14:49:32 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+attr = {
+fillColor = (0,255);
+};
+closed = 1;
+nodes = (
+(150,100,l),
+(150,0,l),
+(50,0,l),
+(50,100,l)
+);
+}
+);
+width = 200;
+}
+);
+unicode = 46;
+},
+{
+glyphname = comma;
+lastChange = "2021-03-26 14:48:03 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+attr = {
+fillColor = (0,255);
+};
+closed = 1;
+nodes = (
+(150,100,l),
+(150,0,l),
+(50,0,l),
+(50,100,l)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 44;
+},
+{
 glyphname = exclam;
 lastChange = "2021-03-03 07:37:35 +0000";
 layers = (
@@ -15050,5 +15097,5 @@ type = descender;
 );
 unitsPerEm = 1000;
 versionMajor = 2;
-versionMinor = 0;
+versionMinor = 1;
 }
